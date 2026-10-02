@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7aa2ff"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b2e"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="599" height="279" rx="16" fill="url(#bg)" stroke="#30363d"/>
+<rect x="0" y="0" width="600" height="5" rx="2.5" fill="url(#acc)"/>
+<text x="32" y="44" font-size="13" letter-spacing="1.5" fill="#8ab4ff" font-weight="600">C++ · CUDA · MPI · NSIGHT</text>
+<text x="32" y="82" font-size="27" font-weight="800" fill="#ffffff">llm-inference-cuda-mpi</text>
+<text x="568" y="82" text-anchor="end" font-size="15" fill="#8b949e">View repo →</text>
+<text x="32" y="120" font-size="15" fill="#c9d1d9">Llama-3.2-3B inference engine with FlashAttention, PagedAttention,</text><text x="32" y="144" font-size="15" fill="#c9d1d9">fused kernels and MPI tensor parallelism across 4 GPUs.</text>
+<g transform="translate(32,176)"><rect width="168" height="72" rx="12" fill="#ffffff" fill-opacity="0.04" stroke="#30363d"/><text x="16" y="34" font-size="26" font-weight="800" fill="url(#acc)">1.84×</text><text x="16" y="57" font-size="13" fill="#8b949e">4-GPU strong scaling</text></g><g transform="translate(212,176)"><rect width="168" height="72" rx="12" fill="#ffffff" fill-opacity="0.04" stroke="#30363d"/><text x="16" y="34" font-size="26" font-weight="800" fill="url(#acc)">+14.6%</text><text x="16" y="57" font-size="13" fill="#8b949e">single-GPU tok/s</text></g><g transform="translate(392,176)"><rect width="168" height="72" rx="12" fill="#ffffff" fill-opacity="0.04" stroke="#30363d"/><text x="16" y="34" font-size="26" font-weight="800" fill="url(#acc)">~97×</text><text x="16" y="57" font-size="13" fill="#8b949e">vs. 16-thread CPU</text></g>
+</svg>
