@@ -13,7 +13,7 @@
 - I build **LLM systems**: retrieval and reranking, agents, and fast GPU inference.
 - **Google SWE Intern (Summer 2026):** fine-tuned a Gemma cross-encoder reranker with JAX + FSDP on TPU. Recall@5 went from 0.80 to **0.94**, and reranking takes **1.2 s** versus more than 30 s for LLM rerankers.
 - **Research:** I compress neural networks by replacing whole NN / ViT layers with explicit **symbolic and PDE expressions** found by genetic programming.
-- **Background:** math (Renmin University) and quantitative research (A-share factor and portfolio work).
+- **Education:** M.S. in Computational and Mathematical Engineering at **Stanford University**, and B.S. in Mathematics and Applied Mathematics at **Renmin University of China**.
 
 ### Featured projects
 
@@ -23,14 +23,6 @@
     <td width="50%"><a href="https://github.com/canhuang12345/tech-equity-stat-arb"><img src="assets/card-stat-arb.svg" width="100%" alt="tech-equity-stat-arb"></a></td>
   </tr>
 </table>
-
-### Experience
-
-| | Role | When | Highlights |
-|---|---|---|---|
-| **Google** | Software Engineer Intern | Jun – Sep 2026 | Skill-retrieval benchmark (150 skills); fine-tuned Gemma reranker (Recall@5 0.80 → 0.94); +30% gold-skill activation in an internal LLM agent |
-| **ICBC UBS Asset Management** | Quant Research Intern | Oct 2024 – Jan 2025 | LightGBM stock ranking (Rank IC 0.11); CSI 500 enhanced portfolio, +5.7% annual excess return (IR 0.97) |
-| **Tianfeng Securities** | Quant Research Intern | Jul – Sep 2023 | Price-conditioned amplitude factor, 1.87 long–short Sharpe (2014–2023) |
 
 ### Publications
 
